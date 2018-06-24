@@ -24,3 +24,6 @@ I think you should use an `<add>` element here instead
 
 ### Strikethrough
 ~~strike~~
+
+### emoji-test
+:smile:
