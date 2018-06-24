@@ -1,5 +1,5 @@
 # git-experiment
-## learning -markdown
+## learning markdown
 for experiments on git and github
 
 **bold**
