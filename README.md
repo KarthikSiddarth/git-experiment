@@ -10,3 +10,7 @@ combining *italic* and **bold**
 
 ![an image](https://unsplash.com/photos/JL82X5WO_Tg)
 [a link](https://guides.github.com/features/mastering-markdown/)
+
+* list
+  * sub-list -1
+  * sub-list -2
