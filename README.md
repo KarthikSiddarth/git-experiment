@@ -32,6 +32,6 @@ I think you should use an `<add>` element here instead
 first col | second col
 ----------|-----------
 cell 1.1  | cell 2.1
-----------------------
+----------|-----------
 cell 1.2  | cell 2.2
 ----------------------
