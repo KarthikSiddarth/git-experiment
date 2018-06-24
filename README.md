@@ -14,3 +14,11 @@ combining *italic* and **bold**
 * list
   * sub-list -1
   * sub-list -2
+
+### Blockquote
+> hello
+> world
+
+### Inline code
+I think you should use an `<add>` element here instead
+
